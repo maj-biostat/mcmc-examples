@@ -1,2 +1,2 @@
 # mcmc-tests
-Tests and tutorials using the mcmc package
+Examples/ tutorials using the R mcmc package
